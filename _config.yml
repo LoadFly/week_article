@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: HaloWeekly
+subtitle: 不定期分享一个有趣的技术话题
+description: 不定期分享一个有趣的技术话题
 keywords:
-author: John Doe
+author: Halo
 language: en
 timezone: ''
 
@@ -65,7 +65,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: discover
 category_map:
 tag_map:
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: async
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
