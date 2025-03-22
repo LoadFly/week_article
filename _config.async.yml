@@ -56,9 +56,10 @@ cdn:
   css: ['https://unpkg.com/@waline/client@v3/dist/waline.css']
 
 layout:
-  fixed_btn: async/fixed-btn
+  # fixed_btn: async/fixed-btn
   header_search: async/empty
   comment: async/comment
+  #post_card: async/post-card
 
 wordcount:
   enable: true

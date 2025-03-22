@@ -1,0 +1,7 @@
+banner:
+  use_cover: true
+footer:
+  live_time:
+    enable: true
+wordcount:
+  enable: true
